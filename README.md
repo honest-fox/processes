@@ -9,3 +9,4 @@ QA can begin at any point after development is kicked off. Ideally developers ha
 
 ### QA Steps
 
+1. Don't panic :smiley:
