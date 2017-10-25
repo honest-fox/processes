@@ -4,6 +4,9 @@ Quality assurance and testing are probably two of the most important things we c
 ## Principles
 The name of the game with quality assurance is communication and teamwork. Clear communication, our developers and designers can articulate not only the desired outcome of a change, but also any opportunity costs along the way. Teamwork is at the heart of everything we do, working together will achieve the most well executed design and development for our clients.
 
+## On the Fly Changes
+To-Do...
+
 ### Responsibilities
 **Developer**
 Take ownership of the QA card in Asana and construct lists that make sense to you. After the round of QA it's up to you to implement the discussed changes, so this is super important. Work with the designer to achieve solutions and workarounds that provide the best outcome within time and budget, it's our job to not just explain what's possible, but what we consider the best implementation of a design concept.
