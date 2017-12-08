@@ -21,12 +21,11 @@ If you are beyond round 3, it's probably a good time for a pow-wow with the wide
 
 ### QA Steps
 
-1. Don't panic :smiley:
-2. Set a time to review the design/development together (preferably in person, but screensharing is also great) - it is super important that the review is done together!
-3. Start a QA card in Asana with the round number (e.g. "QA 1" - organize this card however you think will work best)
-4. Review each component on mobile, tablet and desktop before moving onto other components (e.g. do not do all desktop, then all mobile, we design and develop by component, our QA process should be the same).
-5. Create tasks and notes for each issue as you see fit — making :zap: changes here is also a great move and avoids creating tasks for minor changes
-6. Set a time to catchup and review the work from this round of QA
-7. Complete the tasks from the QA Round
-8. Review the round of QA together, ironing out any kinks or questions
-7. Rinse and Repeat: the QA review should form the basis of whether an additional round of QA is required, if you require another round, use this meeting to setup the required tasks. If you are both happy with the results, grab a :beers:!
+1. Set a time to review the design/development together (preferably in person, but screensharing is also great) - it is super important that the review is done together!
+2. Start a QA card in Asana with the round number (e.g. "QA 1" - organize this card however you think will work best)
+3. Review each component on mobile, tablet and desktop before moving onto other components (e.g. do not do all desktop, then all mobile, we design and develop by component, our QA process should be the same).
+4. Create tasks and notes for each issue as you see fit — making :zap: changes here is also a great move and avoids creating tasks for minor changes
+5. Set a time to catchup and review the work from this round of QA
+6. Complete the tasks from the QA Round
+7. Review the round of QA together, ironing out any kinks or questions
+8. Rinse and Repeat: the QA review should form the basis of whether an additional round of QA is required, if you require another round, use this meeting to setup the required tasks. If you are both happy with the results, grab a :beers:!
